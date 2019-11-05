@@ -1,4 +1,6 @@
-variable "service" {}
+variable "service" {
+  description = "The name of the service associated with the Shibboleth SP"
+}
 
 variable "role_name" {
   description = "The name of the created IAM role"
