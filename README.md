@@ -1,6 +1,6 @@
 # ecs-shibd-data-sealer-role
 
-[![Build Status](https://drone.techservices.illinois.edu/api/badges/techservicesillinois/terraform-aws-ecs-shibd-data-sealer-role/status.svg)](https://drone.techservices.illinois.edu/techservicesillinois/terraform-aws-ecs-shibd-data-sealer-role)
+[![Terraform actions status](https://github.com/techservicesillinois/terraform-aws-ecs-shibd-data-sealer-role/workflows/terraform/badge.svg)](https://github.com/techservicesillinois/terraform-aws-ecs-shibd-data-sealer-role/actions)
 
 Provides an IAM role and policy for an ECS task that allows read
 access to a service specific 
