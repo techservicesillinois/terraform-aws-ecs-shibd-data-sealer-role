@@ -24,6 +24,8 @@ ${var.service}-shibd-data-sealer.
 * `secret_name` - The name of the Secrets Manager secret to allow
 access to. Defaults to ${var.service}-shibd-data-sealer.
 
+* `tags` - Tags to be applied to resources where supported.
+
 Attributes Reference
 --------------------
 
